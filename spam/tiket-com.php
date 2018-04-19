@@ -4,7 +4,7 @@
 TIKET.COM Spam Code
 C0ded by : Ardzz & Ilham HaX0r
 Github Ilham HaX0r : https://github.com/ilhamhax0r
-Github Ardzz : https://github.com/rekyard/ardzz
+Github Ardzz : https://github.com/ardzz
 Thank's to Ilham HaX0r
 */
 $green  = "\e[92m";
